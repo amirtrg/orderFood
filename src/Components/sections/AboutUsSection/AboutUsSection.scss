@@ -1,0 +1,7 @@
+@import "global/utilityFirst";
+
+.aboutUsContainer{
+    @extend .container;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}

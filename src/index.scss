@@ -1,13 +1,25 @@
-@import url('https://v1.fontapi.ir/css/Vazir');
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    direction: rtl;
+@import url("https://v1.fontapi.ir/css/Vazir");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  direction: rtl;
 }
-html{
-    font-family: "Vazir",Arial, Helvetica, sans-serif;
+html {
+  font-family: "Vazir", Arial, Helvetica, sans-serif;
 }
-body{
-    background-color: #eee;
+body {
+  background-color: #eee;
+  position: relative;
+  width: 100%;
+  height: 100%;
 }
+// .app[data-os="andriod"],
+// .app[data-os="ios"] {
+//   @media (orientation: "landscape") {
+//     overflow: hidden;
+//     height: 100vh;
+//     width: 100%;
+  
+//   }
+// }
