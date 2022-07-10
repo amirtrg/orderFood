@@ -31,6 +31,8 @@ function App() {
                 aspectRatio: "1/1",
                 borderRadius: "0.5rem",
               }}
+              loading="lazy"
+              alt="lorem ipson"
             />
             <p>لورم ایپسون</p>
           </Card>
@@ -43,6 +45,8 @@ function App() {
                 aspectRatio: "1/1",
                 borderRadius: "0.5rem",
               }}
+              loading="lazy"
+              alt="lorem ipson"
             />
             <p>لورم ایپسون</p>
           </Card>
@@ -55,6 +59,8 @@ function App() {
                 aspectRatio: "1/1",
                 borderRadius: "0.5rem",
               }}
+              loading="lazy"
+              alt="lorem ipson"
             />
             <p>لورم ایپسون</p>
           </Card>

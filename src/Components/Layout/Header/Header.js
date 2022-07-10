@@ -52,7 +52,7 @@ const Header = () => {
         )}
       </header>
       <div className={classes.banner}>
-        <img src={Meal} alt="not" />
+        <img src={Meal} alt="header" loading="lazy"   />
         <div className={classes.bannerControl}>
           <div className={classes.bannerText}>
             <h1>سفارش آنلاین غذا</h1>
