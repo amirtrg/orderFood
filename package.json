@@ -1,5 +1,5 @@
 {
-  "homepage":"http://amirtrg.github.io/orderFood",
+  "homepage":"https://amirtrg.github.io/orderFood/",
   "name": "zoodfood",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "perdeploy":"npm run build",
+    "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "eject": "react-scripts eject"
   },
